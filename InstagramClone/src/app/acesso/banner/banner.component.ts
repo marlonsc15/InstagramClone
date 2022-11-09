@@ -37,7 +37,6 @@ export class BannerComponent implements OnInit {
   }
 
   public logicaRotacao(): void {
-    console.log(this.imagens);
 
     let idx!: number
 
