@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "instagram-clone-f93ff": {
+      "hosting": {
+        "InstagramClone": [
+          "instagram-clone-f93ff"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "instagram-clone-f93ff"
+  }
+}
